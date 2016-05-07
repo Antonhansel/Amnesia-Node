@@ -1,0 +1,29 @@
+{
+  "name": "amnesia-node",
+  "version": "0.0.1",
+  "description": "Opinionated caching module for NodeJs using Redis.",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonhansel/Amnesia-Node.git"
+  },
+  "keywords": [
+    "amnesia",
+    "redis",
+    "nodejs",
+    "caching",
+    "cache"
+  ],
+  "author": "https://github.com/Antonhansel/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antonhansel/Amnesia-Node/issues"
+  },
+  "homepage": "https://github.com/Antonhansel/Amnesia-Node#readme"
+}
